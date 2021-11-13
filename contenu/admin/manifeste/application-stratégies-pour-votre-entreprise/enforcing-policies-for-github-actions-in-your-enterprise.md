@@ -123,7 +123,7 @@ You can set the default permissions for the `GITHUB_TOKEN` in the settings for y
 {% data reusables.enterprise-accounts.policies-tab %}
 {% data reusables.enterprise-accounts.actions-tab %}
 1. Under **Workflow permissions**, choose whether you want the `GITHUB_TOKEN` to have read and write access for all scopes, or just read access for the `contents` scope.
-  ![Set GITHUB_TOKEN permissions for this enterprise](/assets/images/help/settings/actions-workflow-permissions-enterprise.png)
+  ![ Set permissions for this enterprise](/assets/images/help/settings/actions-workflow-permissions-enterprise.png)
 1. Click **Save** to apply the settings.
 
 {% endif %}
